@@ -118,3 +118,11 @@ deactivate
 - The application uses an in-memory list to store books, so data will be lost when the server restarts
 - Book IDs are automatically generated when creating new books
 - All endpoints include proper response models for API documentation and validation
+
+## Further Learning
+
+- [FastAPI Documentation](https://fastapi.tiangolo.com/) - Comprehensive official documentation with tutorials and advanced topics
+
+- [Complete FastAPI Course](https://youtu.be/0sOvCWFmrtA?si=rq-bf-sk8QXAQUvB) - Full tutorial covering FastAPI from basics to advanced concepts
+
+- [What are Decorators?](https://youtu.be/r7Dtus7N4pI?si=UVZ0I3m_sAuH1hyO) - Understanding Python decorators, which are fundamental to FastAPI routing
